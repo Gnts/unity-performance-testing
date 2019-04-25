@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "unity-test-host": {
+      "commandName": "Project",
+      "commandLineArgs": "-e \"C:/Program Files/Unity/Hub/Editor/2019.2.0a4/Editor/Unity.exe\" -p \"C:/Users/ginte/Desktop/TestFramework/\"  -c \"StandaloneWindows64\"  -f \"All\" -o \"C:/Users/ginte/Desktop/TestFramework/Build\\TestFramework.exe\"  -r \"C:\\Users\\ginte\\Desktop\\results\""
+    }
+  }
+}

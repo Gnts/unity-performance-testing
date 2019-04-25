@@ -1,0 +1,15 @@
+{
+    "name": "ExampleTests",
+    "references": [
+        "GUID:26f558453c6018149af817fc68602889"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": []
+}
